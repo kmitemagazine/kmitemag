@@ -1,0 +1,11 @@
+/*
+ Theme Name:   Newswire Child Theme
+ Theme URI:    https://wordpress.org/themes/the-newswire
+ Description:  The Newswire child theme 
+ Author:       Arjun Munji
+ Author URI:   http://about.me/munji
+ Template:     the-newswire
+ Version:      1.0.0
+*/
+
+@import url("../the-newswire/style.css");
