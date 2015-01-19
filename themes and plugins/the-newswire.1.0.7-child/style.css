@@ -1,0 +1,45 @@
+/*
+ Theme Name:   Newswire Child Theme
+ Theme URI:    https://wordpress.org/themes/the-newswire
+ Description:  The Newswire child theme 
+ Author:       Arjun Munji
+ Author URI:   http://about.me/munji
+ Template:     the-newswire
+ Version:      1.0.0
+*/
+
+@import url("../the-newswire/style.css");
+
+/*.menu {
+display: block;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 100%;
+z-index: 1000;
+background-color: black;
+opacity: 0.9;
+}*/
+
+body{
+margin-top: 0px;
+}
+#site-logo img{
+max-width:120%;
+padding: 0px;
+}
+body.page .entry-title{
+	padding-bottom: 0.5rem;
+}
+#wrapper {
+	margin: -10px;
+}
+
+article[id*=post-] {
+			padding: .5rem 0; 
+
+		}
+body.page .entry-title{
+			font-size: 3rem;
+			line-height: 2.5rem;
+		}
