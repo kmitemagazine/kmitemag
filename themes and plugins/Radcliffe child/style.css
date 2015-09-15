@@ -1,0 +1,47 @@
+/*
+ Theme Name:   Radcliffe Child Theme
+ Theme URI:    https://wordpress.org/themes/radcliffe
+ Description:  Radcliffe child theme 
+ Author:       Arjun Munji
+ Author URI:   http://arjun.ninja/
+ Template:     radcliffe
+ Version:      1.0.0
+*/
+
+@import url("../radcliffe/style.css");
+
+.blog-logo {
+    position: relative;
+    margin-top: -20px;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.blog-logo img {
+    margin: 0 auto
+}
+
+.issuem_article_list_widget .issuem_widget_link {
+    font-size: 1.5em;
+}
+
+.post-title {
+    font-size: 2em;
+}
+
+.nav-toggle {
+    position: relative;
+    float: right;
+    margin-top: 0px;
+}
+
+/*.main-menu {
+    display: flex;
+    justify-content: center;
+}
+
+.fright {
+    float: none;
+}*/
